@@ -10,4 +10,6 @@
 
 [Go语言圣经](https://books.studygolang.com/gopl-zh/)
 
+[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+
 [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/zh-CN/ReadMe-zh-CN.md)
