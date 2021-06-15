@@ -9,4 +9,10 @@ func main() {
 
 		fmt.Printf("2**%d = %d\n", i, v)
 	}
+
+	//可以将下标或值赋予 _ 来忽略它
+	for i, _ := range pow {
+
+		fmt.Printf("%d", i)
+	}
 }
