@@ -21,4 +21,8 @@ func main() {
 	fmt.Println(v.X, v)
 
 	fmt.Println(v1, v2, v3, v4)
+
+	result := &v
+	result.Y = 12
+	fmt.Println(result, v)
 }
